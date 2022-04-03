@@ -30,10 +30,10 @@ This work dependes on the following libraries:
 Also, this code should be compatible with Python versions 2.7-3.7.
 
 ### Reference
-[1] Kim, H.Y., Hashimoto, S., Kim, J.I., Hosoda, H. and Miyazaki, S., 2004. Mechanical properties and shape memory behavior of Ti-Nb alloys. materials Transactions, 45(7), pp.2443-2448.
+[1] Kim, H.Y., Hashimoto, S., Kim, J.I., Hosoda, H. and Miyazaki, S., 2004. Mechanical properties and shape memory behavior of Ti-Nb alloys. materials Transactions, 45(7), pp.2443-2448.  
 [2] M. Murata. (2020). Ti-Nb-Al三元系を用いた超弾性特性の合金設計のための実
-験的検討 . Tokyo Institute of Technology.
-[3] K. Kimura. (2017). Ti-Mo-Al 生体用形状記憶合金の相構成と機械的性質 . Tokyo Institute of Technology.
+験的検討 . Tokyo Institute of Technology.  
+[3] K. Kimura. (2017). Ti-Mo-Al 生体用形状記憶合金の相構成と機械的性質 . Tokyo Institute of Technology.  
 [4] Kim, J.I., Kim, H.Y., Inamura, T., Hosoda, H. and Miyazaki, S., 2005. Shape memory characteristics of Ti–22Nb–(2–8) Zr (at.%) biomedical alloys. Materials Science and Engineering: A, 403(1-2), pp.334-339.
 [5] Cui, Y., Li, Y., Luo, K. and Xu, H., 2010. Microstructure and shape memory effect of Ti–20Zr–10Nb alloy. Materials Science and Engineering: A, 527(3), pp.652-656.
 [6] Zhang, J., Sun, F., Hao, Y., Gozdecki, N., Lebrun, E., Vermaut, P., Portier, R., Gloriant, T., Laheurte, P. and Prima, F., 2013. Influence of equiatomic Zr/Nb substitution on superelastic behavior of Ti–Nb–Zr alloy. Materials Science and Engineering: A, 563, pp.78-85.
